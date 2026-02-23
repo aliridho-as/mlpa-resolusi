@@ -3,3 +3,4 @@ MLPA RESOLUSI
 - Membuat platform untuk item pool
 - Membuat platform untuk item bank
 - Membuat forum diskusi untuk 
+- Kolaborasi dengan lebih banyak expert
